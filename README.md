@@ -3,7 +3,7 @@ This repository contains a detailed sample app that implements MVVM architecture
 
 # MVVM Architecture
 
-<img src="https://user-images.githubusercontent.com/68017899/87062251-71b00f00-c22a-11ea-8652-547397dcc4e4.png" width="1920" height="500">
+<img src="https://user-images.githubusercontent.com/68017899/87228025-27f72e00-c3bc-11ea-8495-564fd13e8c75.png" width="1920" height="500">
 
 The repository contains simple Login screen and Main screen.
 
